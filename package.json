@@ -1,0 +1,22 @@
+{
+  "name": "sunnyside_agency_landing_page",
+  "version": "1.0.0",
+  "description": "A frontend mentor learning challenge",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass main.scss style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mavreon/Sunnyside_Agency_Landing_Page.git"
+  },
+  "author": "Chisom Ogbonna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mavreon/Sunnyside_Agency_Landing_Page/issues"
+  },
+  "homepage": "https://github.com/Mavreon/Sunnyside_Agency_Landing_Page#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
